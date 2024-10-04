@@ -2,15 +2,37 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Vamsi-344&label=Profile%20views&color=0e75b6&style=flat)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
+<!-- <div id="toc">
+  <ul align="left" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Vamsi Krishna Sethu
+        👋 Hello there
       </h1>
     </summary>
   </ul>
-</div>
+</div> -->
+
+# Hello there 👋 
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Vamsi Krishna"
+        self.role = "Software Engineer"
+        self.language_spoken = ["te_IN", "hi_IN", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="sethuvamsikrishna@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Vamsi-344" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/vamsi344" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
@@ -23,8 +45,8 @@
 - 🌱 I'm currently learning: **📚 Exploring Next.js**
 - 💬 Ask me about: **💡 Python, Deep Learning, Docker, Kubernetes, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once used to train deep learning models by staying up all night**
-- 📂 Portfolio: **<a href="vamsi-344.github.io" target="_blank">vamsi-344.github.io</a>**
-- 📝 Blog: **<a href="vamsi344.hashnode.dev" target="_blank">vamsi344.hashnode.dev</a>**
+- 📂 Portfolio: **<a href="https://vamsi-344.github.io" target="_blank">vamsi-344.github.io</a>**
+- 📝 Blog: **<a href="https://vamsi344.hashnode.dev" target="_blank">vamsi344.hashnode.dev</a>**
 
 
  **<h3 align="left">Skills</h3>**
@@ -47,6 +69,6 @@
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66dd7563c46f68d052e6e56f?variant=dark)](https://roadmap.sh)
 
- **<h3 align="left">daily.dev Stats</h3>**
+ **<h3 align="left">daily.dev stats</h3>**
 
 <a href="https://app.daily.dev/vamsi344"><img src="https://api.daily.dev/devcards/v2/NVjIiqy5uFOe7CnAQS70S.png?type=wide&r=5jb" width="652" alt="Vamsi Krishna Sethu's Dev Card"/></a>
