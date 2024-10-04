@@ -35,7 +35,7 @@ me.say_hi()
 ```
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="sethuvamsikrishna@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Vamsi-344" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/vamsi344" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="mailto:sethuvamsikrishna@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Vamsi-344" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/vamsi344" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 Passionate FullStack DevOps Engineer, creating robust pipelines for deploying applications into kubernetes. Skilled in both kuberenetes and docker with keen intereset in OpenShift.</h3>**
 
@@ -71,4 +71,4 @@ me.say_hi()
 
  **<h3 align="left">daily.dev stats</h3>**
 
-<a href="https://app.daily.dev/vamsi344"><img src="https://api.daily.dev/devcards/v2/NVjIiqy5uFOe7CnAQS70S.png?type=wide&r=5jb" width="652" alt="Vamsi Krishna Sethu's Dev Card"/></a>
+<a href="https://app.daily.dev/vamsi344"><img  src="https://api.daily.dev/devcards/v2/NVjIiqy5uFOe7CnAQS70S.png?type=wide&r=5jb" width="652" alt="Vamsi Krishna Sethu's Dev Card"/></a>
