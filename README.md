@@ -6,8 +6,8 @@ Building robust pipelines that ship apps to Kubernetes.
 class Vamsi:
     role      = "FullStack DevOps Engineer"
     speaks    = ["te_IN", "hi_IN", "en_US"]
-    currently = "shipping a Go backend API to Kubernetes"
-    learning  = "Next.js"
+    currently = "building GitOps pipelines for AI inference on Kubernetes"
+    learning  = "ArgoCD agent & multi-cluster GitOps"
 
     # find me around the web
     portfolio = "https://vamsisethu.com"
